@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @stopthisnonsense
-- 👀 I’m interested in react, vuejs and building cool themes for Wordpress!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm a career WordPress Developer who specializes in Agency Work.
+- 🌱 I’m currently learning GDScript and Godot development
+- 💞️ I’m looking to collaborate on projects that help people!
 
 <!---
 stopthisnonsense/stopthisnonsense is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
